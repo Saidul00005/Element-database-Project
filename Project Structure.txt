@@ -1,0 +1,213 @@
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 1
+
+** Add an element **
+Enter atomic number: 3
+Enter chemical symbol: Li
+Enter element name: Lithium
+
+Element added successfully.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 1
+
+** Add an element **
+Enter atomic number: 36
+Enter chemical symbol: Kr
+Enter element name: Krypton
+
+Element added successfully.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 1
+
+** Add an element **
+Enter atomic number: 2
+Enter chemical symbol: He
+Enter element name: Helium
+
+Element added successfully.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 2
+
+** View Elements **
+2, He, Helium
+3, Li, Lithium
+36, Kr, Krypton
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 3
+
+** Search Elements by Chemical Symbol **
+
+Enter chemical symbol: Li
+
+Search result:
+3, Li, Lithium
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 3
+
+** Search Elements by Chemical Symbol **
+
+Enter chemical symbol: Co
+
+Search result:
+No element was found.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 4
+
+** Search Elements by Element Name **
+
+Enter chemical symbol: lithium
+
+Search result:
+3, Li, Lithium
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 4
+
+** Search Elements by Element Name **
+
+Enter chemical symbol: HELIUM
+
+Search result:
+2, He, Lithium
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 4
+
+** Search Elements by Element Name **
+
+Enter chemical symbol: Oxygen
+
+Search result:
+No element was found.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 5
+
+** Delete an element **
+
+Enter atmoic number: 2
+
+Do you want to delete:
+2, He, Helium
+
+Enter y or n:y
+
+Element deleted successfully.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 5
+
+** Delete an element **
+
+Enter atmoic number: 5
+
+No element was found.
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 2
+
+** View Elements **
+3, Li, Lithium
+36, Kr, Krypton
+
+-----------------------------
+1. Add an element
+2. View elements
+3. Search elements by chemical symbol
+4. Search elements by element name
+5. Delete an element
+6. Exit program
+
+Enter your choice: 6
+
+Program has exited..
